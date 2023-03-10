@@ -16,20 +16,24 @@ https://github.com/Ozodbek97/angular-reddit-clone
 # Screenshots
 1. Home Page
 
-![Home Page](https://github.com/Ozodbek97/spring-reddit-clone/blob/master/src/main/resources/images/reddit-screenshot-updated.PNG)
+ ![1](https://user-images.githubusercontent.com/26486928/224223878-285cc15a-2d0f-4c3e-90f9-06103e8b37fd.png)
 
 2. View Post Page
 
-![View Post Page](https://github.com/Ozodbek97/spring-reddit-clone/blob/master/src/main/resources/images/reddit-screenshot-updated.PNG)
+ 
+![2](https://user-images.githubusercontent.com/26486928/224223894-df6e827f-097c-4293-9432-1c60a1569095.png)
 
 3. Create Post Page
 
-![Create Post Page](https://github.com/Ozodbek97/spring-reddit-clone/blob/master/src/main/resources/images/create-post.PNG)
+ 
+![3](https://user-images.githubusercontent.com/26486928/224223908-dd1265b6-093b-490f-948b-679fdc9e93e2.png)
 
 4. Create Subreddit Page
 
-![Create Subreddit Page](https://github.com/Ozodbek97/spring-reddit-clone/blob/master/src/main/resources/images/create-subreddit.PNG)
+ ![4](https://user-images.githubusercontent.com/26486928/224223916-1c9f55ca-3fbf-43af-9609-8a4b5158911b.png)
+
 
 5. User Profile Page
+![5](https://user-images.githubusercontent.com/26486928/224223930-7f0e5bd8-2e0b-4a44-a56c-c6fc22601fba.png)
 
-![User Profile Page](https://github.com/Ozodbek97/spring-reddit-clone/blob/master/src/main/resources/images/user-profile.PNG)
+ 
